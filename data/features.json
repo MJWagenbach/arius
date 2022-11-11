@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Discover the Data that Drives Insight",
+    "description": "Explore a wide range of open and commercial data sets across different categories",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Publish & Discover Data",
+    "description": "Publish data - post your dataset for sale in ARIUS Market. Enter the url, add a description, and hit 'publish'. Discover data - browse, search, and filter data in Ocean Market.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Buy Data",
+    "description": "Spend OCEAN (or other) to buy a dataset's datatokens.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
